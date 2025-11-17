@@ -74,3 +74,10 @@ p {
     position: relative;
     margin-bottom: 30px;
 }
+
+
+.lottiefiles {
+    background-color: /* var(--primaryColor) !important; */;
+    padding: 25px;
+    color: #ffffff !important
+}
