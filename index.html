@@ -28,7 +28,7 @@
     <!-- end header -->
 
     <main>
-      <h1 class="animate__animated animate__bounce">An animated element</h1>
+      <h1 class="animate__animated animate__bounce reveal">An animated element</h1>
       <!-- begin carousel -->
       <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-indicators">
@@ -73,7 +73,7 @@
       <!-- end carouosel -->
 
       <!-- Begin Font Awesome Row -->
-      <div class="container-fluid text-center blinn-fa-container">
+      <div class="container-fluid text-center blinn-fa-container reveal">
         <div class="row">
           <div class="col col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-2 col-xxl-2"><i class="fa-solid fa-paw blinn-fa-icon"></i><br /><a href="#">About Us</a></div>
           <div class="col col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-2 col-xxl-2"><i class="fa-solid fa-otter blinn-fa-icon"></i><br /><a href="#">Animals</a></div>
@@ -90,7 +90,7 @@
       <!-- End Clip Path -->
 
       <!-- Begin First Paragraph -->
-      <div class="container paragraph-one headline">
+      <div class="container paragraph-one headline reveal">
         <div class="row">
           <div class="col-12">
             <p>
@@ -176,6 +176,15 @@
       <script src="components/js/footer.js"></script>
       <!-- Local Js File -->
       <script src="js/scripts.js"></script>
+
+      <script>
+        ScrollReveal().reveal(".reveal", {
+          distance: "50px",
+          duration: 1000,
+          origin: "bottom",
+          easing: "ease-out",
+        });
+      </script>
     </section>
   </body>
 </html>
