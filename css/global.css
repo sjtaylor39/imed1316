@@ -6,18 +6,18 @@
 /* Colors */
 
 /*
-60% of #99D4CF - Primary
-30% of #386936 - Secondary
+60% of #32D4CF - Primary
+30% of #3AB559 - Secondary
 10% of #2E6970 - Accent
 */
 
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #99D4CF;
+--primaryColor: #32D4CF;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: #386936;
+--secondaryColor: #3AB559;
 
 /* var(--accentColor) !important; */
 --accentColor: #2E6970;
