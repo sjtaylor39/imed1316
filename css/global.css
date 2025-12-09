@@ -6,7 +6,7 @@
 /* Colors */
 
 /*
-60% of #A3B8CF - Primary
+60% of #99D4CF - Primary
 30% of #386936 - Secondary
 10% of #2E6970 - Accent
 */
@@ -14,7 +14,7 @@
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #A3B8CF;
+--primaryColor: #99D4CF;
 
 /* var(--secondaryColor) !important; */
 --secondaryColor: #386936;
