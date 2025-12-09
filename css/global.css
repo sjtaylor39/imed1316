@@ -7,7 +7,7 @@
 
 /*
 60% of #0F4C5C - Primary
-30% of #2E6B3E - Secondary
+30% of #A8D5A2 - Secondary
 10% of #D9A441 - Accent
 */
 
@@ -17,7 +17,7 @@
 --primaryColor: #0F4C5C;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: #2E6B3E;
+--secondaryColor: #A8D5A2;
 
 /* var(--accentColor) !important; */
 --accentColor: #D9A441;
