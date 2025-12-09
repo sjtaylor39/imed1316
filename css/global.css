@@ -6,21 +6,21 @@
 /* Colors */
 
 /*
-60% of #32D4CF - Primary
-30% of #3AB559 - Secondary
-10% of #2E6970 - Accent
+60% of #0F4C5C - Primary
+30% of #2E6B3E - Secondary
+10% of #D9A441 - Accent
 */
 
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #32D4CF;
+--primaryColor: #0F4C5C;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: #3AB559;
+--secondaryColor: #2E6B3E;
 
 /* var(--accentColor) !important; */
---accentColor: #2E6970;
+--accentColor: #D9A441;
 
 /* var(--fontFamily) !important; */
 --fontFamily: "Mulish", sans-serif;
