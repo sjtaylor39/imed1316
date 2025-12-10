@@ -14,18 +14,15 @@
   --fontFamily: "Mulish", sans-serif;
 }
 
-/* Make the event heading white */
-.lottiefiles h2 {
+/* ----- FIX FOOTER LINKS ----- */
+
+.blinn-footer-container a,
+.blinn-footer-container a:visited {
   color: #ffffff !important;
+  text-decoration: none !important;
 }
 
-/* Make footer links white */
-.blinn-footer-container a {
-  color: #ffffff !important;
-  text-decoration: none;
-}
-
-/* Hover color for footer links */
 .blinn-footer-container a:hover {
   color: var(--accentColor) !important;
 }
+
