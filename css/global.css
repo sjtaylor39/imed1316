@@ -7,8 +7,8 @@
 
 /*
 60% of #0F4C5C - Primary
-30% of #A8D5A2 - Secondary
-10% of #D9A441 - Accent
+30% of #24523D - Secondary
+10% of #F4A640 - Accent
 */
 
 :root {
@@ -17,10 +17,10 @@
 --primaryColor: #0F4C5C;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: #A8D5A2;
+--secondaryColor: #24523D;
 
 /* var(--accentColor) !important; */
---accentColor: #D9A441;
+--accentColor: #F4A640;
 
 /* var(--fontFamily) !important; */
 --fontFamily: "Mulish", sans-serif;
@@ -29,5 +29,5 @@
 
 }
 .lottiefiles h2 {
-  color: #ffffff;
+  color: #ffffff !important;
 }
