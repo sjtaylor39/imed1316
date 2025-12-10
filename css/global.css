@@ -4,13 +4,13 @@
 /*
 60% of #0F4C5C - Primary
 30% of #24523D - Secondary
-10% of #F4A640 - Accent
+10% of #084134 - Accent
 */
 
 :root {
   --primaryColor: #0F4C5C;
   --secondaryColor: #24523D;
-  --accentColor: #F4A640;
+  --accentColor: #084134;
   --fontFamily: "Mulish", sans-serif;
 }
 
