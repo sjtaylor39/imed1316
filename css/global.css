@@ -1,12 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 /* Colors */
-/*
-60% of #0F4C5C - Primary
-30% of #24523D - Secondary
-10% of #084134 - Accent
-*/
-
 :root {
   --primaryColor: #0F4C5C;
   --secondaryColor: #24523D;
@@ -15,7 +9,6 @@
 }
 
 /* ----- FIX FOOTER LINKS ----- */
-
 .blinn-footer-container a,
 .blinn-footer-container a:visited {
   color: #ffffff !important;
@@ -26,3 +19,7 @@
   color: var(--accentColor) !important;
 }
 
+/* ----- MAKE EVENT HEADING WHITE ----- */
+.lottiefiles h2 {
+  color: #ffffff !important;
+}
